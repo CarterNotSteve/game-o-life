@@ -19,4 +19,6 @@ def on_draw():
             yit+=1
         xit+=1
 
+    win.clear()
+
 pyglet.app.run()
